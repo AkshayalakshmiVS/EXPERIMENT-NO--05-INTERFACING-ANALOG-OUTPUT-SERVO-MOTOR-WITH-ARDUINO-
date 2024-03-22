@@ -44,15 +44,6 @@ An external controller (such as the Arduino) tells the servo where to go with a 
 
 ### Figure-03 SERVO MOTOR OVERVIEW 
 
- 
-
-
- 
-
-
-
-
-
 CIRCUIT DIAGRAM
  
  
@@ -128,21 +119,10 @@ void loop()
     delay(200);
   }
   }
-  
-  
-  
+   
 } 
 
 ```
- 
-
-
-
-
-
-
-
-
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
