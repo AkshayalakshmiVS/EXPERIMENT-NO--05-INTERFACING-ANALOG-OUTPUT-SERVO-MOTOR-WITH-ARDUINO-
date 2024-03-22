@@ -1,8 +1,7 @@
-###  DATE: 
-
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  DATE:22-03-2024
+###  NAME: AKSHAYA LAKSHMI VS
+###  ROLL NO : 212222040005
+###  DEPARTMENT: CSE
 
 
 # EXPERIMENT NO 05 INTERFACING ANALOG OUTPUT SERVO MOTOR WITH ARDUINO
@@ -60,6 +59,14 @@ CIRCUIT DIAGRAM
  ![image](https://user-images.githubusercontent.com/36288975/163544618-6eb8a7b5-7f1a-428a-8d9f-fd899b145efb.png)
 
 ### FIGURE 04 CIRCUIT DIAGRAM
+
+![FIG 4 ROBOTICS](https://github.com/AkshayalakshmiVS/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/128115963/c9fa2aee-90fc-4b37-94bf-5f54f8470a14)
+
+### FIGURE 05 SCHEMATIC DIAGRAM
+
+![Screenshot (388)](https://github.com/AkshayalakshmiVS/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/128115963/714b4efd-81ae-40bc-97a3-d5b9530c80e0)
+
+
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
